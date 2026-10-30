@@ -11,5 +11,5 @@ Repositorio correspondiente al Trabajo Práctico 3 que fue la realización de nu
 - Se utilizó Visual Studio Code para el diseño y maquetación de la pagina web.
 - El tamaño de pantalla donde se realizó este trabajo es de 1920x1080px.
 
-#Link a Figma#
+## Link a Figma ##
 https://www.figma.com/design/n48uYwA4SiQQJ2j5vycunY/Portfolio?node-id=0-1&t=deGUXJ7BcXQRpUvd-1
