@@ -141,6 +141,7 @@ img {
 
 .header h3,
 .header .logo {
+  color: var(--negro);
   font-size: 23px;
   text-decoration: none;
   font-weight: 700
@@ -322,6 +323,7 @@ img {
   font-weight: 700;
   font-size: 20px;
   text-decoration: none;
+  color: var(--negro)
 }
 
 .menu-movil .pill {
@@ -453,7 +455,9 @@ img {
   display: flex
 }
 
-.menu-check:focus-visible~.header .hamburguesa {
+.menu-check:focus-visible
+.header
+.hamburguesa {
   outline: 3px solid var(--rosa);
   outline-offset: 3px
 }
